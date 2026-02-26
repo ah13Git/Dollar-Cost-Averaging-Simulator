@@ -1,15 +1,3 @@
-#Scrap
-
-#cd C:\Users\ayman\dca-simulator 
-#streamlit run app.py
-
-
-
-
-
-
-
-
 
 
 import streamlit as st
@@ -20,7 +8,7 @@ from datetime import datetime, timedelta
 # Page Setup
 st.set_page_config(page_title="NJIT FinTech: DCA Lab", layout="wide")
 
-st.title("🎓 The Dollar Cost Averaging (DCA) Lab")
+st.title("The Dollar Cost Averaging (DCA) Simulator")
 st.markdown("### *Analyzing Market Cycles from 1980 to Present*")
 
 # --- SIDEBAR: USER CONTROLS ---
