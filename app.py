@@ -6,7 +6,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # Page Setup
-st.set_page_config(page_title="NJIT FinTech: DCA Lab", layout="wide")
+st.set_page_config(page_title="DCA Simulator", layout="wide")
 
 st.title("The Dollar Cost Averaging (DCA) Simulator")
 st.markdown("### *Analyzing Market Cycles from 1980 to Present*")
